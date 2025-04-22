@@ -1,0 +1,1 @@
+ini adalah proses percobaan upload git hub via git bash 
